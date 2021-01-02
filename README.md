@@ -1,2 +1,2 @@
-# aula_javascript
-Introdução ao Javascript
+# projetos_javascript
+Alguns projetos em Javascript
